@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Talonsky_BEIS_19\LB 2\lb 2 Talonsky\lb 2 Talonsky\bin\Debug\lb 2 Talonsky.exe
+C:\Users\Student\Desktop\Talonsky_BEIS_19\LB 2\lb 2 Talonsky\lb 2 Talonsky\bin\Debug\lb 2 Talonsky.pdb
+C:\Users\Student\Desktop\Talonsky_BEIS_19\LB 2\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.exe
+C:\Users\Student\Desktop\Talonsky_BEIS_19\LB 2\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.pdb
+C:\Users\Student\Desktop\Talonsky_BEIS_19\LB 2\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.csprojResolveAssemblyReference.cache
+F:\РиспСИСпраИСТТСТВАТА\ЛБ2\LB 2\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.exe
+F:\РиспСИСпраИСТТСТВАТА\ЛБ2\LB 2\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.pdb
+F:\РиспСИСпраИСТТСТВАТА\ЛБ2\LB 2\lb 2 Talonsky\lb 2 Talonsky\bin\Debug\lb 2 Talonsky.exe
+F:\РиспСИСпраИСТТСТВАТА\ЛБ2\LB 2\lb 2 Talonsky\lb 2 Talonsky\bin\Debug\lb 2 Talonsky.pdb
+F:\РиспСИСпраИСТТСТВАТА\ЛБ2\LB 2\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.csprojResolveAssemblyReference.cache
+C:\Users\thisi\OneDrive\Рабочий стол\Учёба 2 курс 2 семестр\РиСПСиИТ\Р\РиспСИСпраИСТТСТВАТА\lb 2 Talonsky\lb 2 Talonsky\bin\Debug\lb 2 Talonsky.exe
+C:\Users\thisi\OneDrive\Рабочий стол\Учёба 2 курс 2 семестр\РиСПСиИТ\Р\РиспСИСпраИСТТСТВАТА\lb 2 Talonsky\lb 2 Talonsky\bin\Debug\lb 2 Talonsky.pdb
+C:\Users\thisi\OneDrive\Рабочий стол\Учёба 2 курс 2 семестр\РиСПСиИТ\Р\РиспСИСпраИСТТСТВАТА\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.csprojAssemblyReference.cache
+C:\Users\thisi\OneDrive\Рабочий стол\Учёба 2 курс 2 семестр\РиСПСиИТ\Р\РиспСИСпраИСТТСТВАТА\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.csproj.CoreCompileInputs.cache
+C:\Users\thisi\OneDrive\Рабочий стол\Учёба 2 курс 2 семестр\РиСПСиИТ\Р\РиспСИСпраИСТТСТВАТА\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.exe
+C:\Users\thisi\OneDrive\Рабочий стол\Учёба 2 курс 2 семестр\РиСПСиИТ\Р\РиспСИСпраИСТТСТВАТА\lb 2 Talonsky\lb 2 Talonsky\obj\x86\Debug\lb 2 Talonsky.pdb
