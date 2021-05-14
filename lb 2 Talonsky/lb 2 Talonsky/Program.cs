@@ -22,7 +22,7 @@ namespace lb_1_Talonsky
                     double y;
                     double z;
                     y = x*x*x;
-                    z = x*x*6;
+                    z = x*x*6+0;
                     Console.WriteLine("Обьём куба = " + y);
                     Console.WriteLine("Площадь его поверхности = " + z);
                     Console.ReadLine();
